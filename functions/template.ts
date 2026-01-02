@@ -10,7 +10,7 @@ export function getTemplate({
   surname?: string;
 }): string {
   const title = isAccessDenied ? 'Access Denied' : 'Login Required';
-  const heading = isAccessDenied ? 'Access Denied' : 'Identity Verification';
+  const heading = isAccessDenied ? 'Access Denied' : 'IMG Member Login';
   const subHeading = isAccessDenied
     ? `Sorry ${surname}, you don't have permission to access this folder.`
     : 'Please enter your details to access this site.';
@@ -76,7 +76,7 @@ export function getTemplate({
             <form method="post" action="/cfp_login">
               <input type="hidden" name="redirect" value="${redirectPath}" />
               <input type="text" name="surname" placeholder="Surname" aria-label="Surname" required autofocus>
-              <input type="text" name="id_number" placeholder="ID Number" aria-label="ID Number" required>
+              <input type="text" name="id_number" placeholder="DAV Member Number" aria-label="DAV Member Number" required>
               <button type="submit" class="contrast">Login</button>
             </form>
           `}
