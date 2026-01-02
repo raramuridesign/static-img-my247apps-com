@@ -1,2 +1,9 @@
-User-agent: *
+User-agent: ChatGPT-User
 Disallow: /
+User-agent: GPTBot
+Disallow: /
+User-agent: CCBot
+Disallow: /
+User-agent: *
+Disallow:
+Sitemap: https://img-v2.my247apps.com/sitemap.xml
