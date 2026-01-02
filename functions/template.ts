@@ -9,7 +9,7 @@ export function getTemplate({
   isAccessDenied?: boolean;
   surname?: string;
 }): string {
-  const title = isAccessDenied ? 'Access Denied' : 'Login Required';
+  const title = isAccessDenied ? 'Access Denied' : 'Login Required - IMG Resource Database';
   const heading = isAccessDenied ? 'Access Denied' : 'IMG Login';
   const subHeading = isAccessDenied
     ? `Sorry ${surname}, you don't have permission to access this folder.`
@@ -27,29 +27,11 @@ export function getTemplate({
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <title>${title}</title>
       <meta name="description" content="${title}">
-      <link rel="shortcut icon" href="https://picocss.com/favicon.ico">
-
+      <link rel="shortcut icon" href="https://img-v2.my247apps.com/media/website/img-logo-128.png" type="image/png">
       <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
-
       <style>
-        body > main {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          min-height: calc(100vh - 7rem);
-          padding: 1rem 0;
-          max-width: 600px;
-          margin: 0 auto;
-        }
-
-        .error {
-          background: #ff4136;
-          border-radius: 10px;
-          color: white;
-          padding: 0.5em 1em;
-          margin-bottom: 1rem;
-        }
-
+        body > main { display: flex; flex-direction: column; justify-content: center; min-height: calc(100vh - 7rem); padding: 1rem 0; max-width: 600px;margin: 0 auto; }
+        .error { background: #ff4136;border-radius: 10px; color: white; padding: 0.5em 1em; margin-bottom: 1rem; }
         h2 { color: var(--color-h2); }
       </style>
       ${getIdentityBarStyles()}
@@ -92,24 +74,13 @@ function getIdentityBarStyles(): string {
   return `
     <style>
       #identity-bar {
-        background: #1a1a1a;
-        color: #eee;
-        padding: 0.5rem 1rem;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        font-size: 0.85rem;
-        border-bottom: 1px solid #333;
-        position: sticky;
-        top: 0;
-        z-index: 1000;
-        font-family: system-ui, -apple-system, sans-serif;
+        background: #1a1a1a; color: #eee;
+        padding: 0.5rem 1rem; display: flex; justify-content: space-between;
+        align-items: center; font-size: 0.85rem; border-bottom: 1px solid #333; position: sticky;
+        top: 0; z-index: 1000; font-family: system-ui, -apple-system, sans-serif;
       }
-      #identity-bar a.logout-link {
-        color: #ff4136;
-        text-decoration: none;
-        font-weight: bold;
-      }
+      #identity-bar a.logout-link {color: #ff4136;text-decoration: none;font-weight: bold;}
+      #identity-bar a.logout-link:hover {color: #fff;}
       #identity-bar strong { color: #fff; }
     </style>
   `;
