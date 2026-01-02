@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "9901fb0178f1f1755090cdf09f8a2a7d"
+        "md5": "d860ca5af3d370be1fc25a7ab52de7fd"
     },
     {
         "path": "assets",
@@ -92,12 +92,12 @@
     {
         "path": "/authors/ed/index.html",
         "type": "file",
-        "md5": "6324835b8a4adf7ede64dca113be0367"
+        "md5": "6ad7d1d6dc8a4530b3bb0e2040078720"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "2857a587a423f7c6db1f7b10b8ad8430"
+        "md5": "68413267b0e92c7db863b8cc46b9b7c6"
     },
     {
         "path": "internal-roadmap",
@@ -107,7 +107,7 @@
     {
         "path": "/internal-roadmap/index.html",
         "type": "file",
-        "md5": "a4dde832d15165a76bcb450d7825f79a"
+        "md5": "a0b0f1bf3ca23e63030cc1001f7c266c"
     },
     {
         "path": "legal-cookie-policy",
@@ -117,7 +117,7 @@
     {
         "path": "/legal-cookie-policy/index.html",
         "type": "file",
-        "md5": "413a911388944417c40f9a0b950d8ee7"
+        "md5": "c8a0f2df4cb1803b9a979c9ada21aa0b"
     },
     {
         "path": "legal-privacy",
@@ -127,7 +127,7 @@
     {
         "path": "/legal-privacy/index.html",
         "type": "file",
-        "md5": "8d29f21bcafacf5fb72788f87a2ad4aa"
+        "md5": "f68484926681f61d4c222562e3b1268c"
     },
     {
         "path": "media",
@@ -152,7 +152,7 @@
     {
         "path": "/media/plugins/staticSearch/index.js",
         "type": "file",
-        "md5": "ffa6009893baa9266d6639c67ce85d04"
+        "md5": "f40db4b92a10c66308126cc49fd7d9a9"
     },
     {
         "path": "/media/plugins/staticSearch/static.search.min.css",
@@ -165,6 +165,16 @@
         "md5": "786b5157a9c2627b6bf48c8c0d3991da"
     },
     {
+        "path": "media-race-to-the-summit",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media-race-to-the-summit/index.html",
+        "type": "file",
+        "md5": "14d9d08c6b28bf183a28eec1c9e31bc9"
+    },
+    {
         "path": "robots.txt",
         "type": "file",
         "md5": "9152d7f1724ed8fbcd2e0c87029f193c"
@@ -172,7 +182,7 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "064d5e37d3859cae3904c04ca5f409c9"
+        "md5": "1a91e81b5fb0f59030b1d03350cfac02"
     },
     {
         "path": "tags",
@@ -182,6 +192,16 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "9a01dce1732ed6797eb7d02a45f632cf"
+        "md5": "67f1b4eb1076ccf3c87e65b80e37f48f"
+    },
+    {
+        "path": "tags/media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/media/index.html",
+        "type": "file",
+        "md5": "b767fda21dacef11be19f715c42bf6be"
     }
 ]
