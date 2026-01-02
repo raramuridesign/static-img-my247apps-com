@@ -6,7 +6,8 @@
         "/training-",
         "/shop-",
         "/reservations-",
-        "/services-"
+        "/services-",
+        "/medical-"
     ],
     "imgadmin": [
         "/internal-"

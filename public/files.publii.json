@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "f34c736255aaead918434605607fcb09"
+        "md5": "cc66166098bc79d65d9b0483498c7c0d"
     },
     {
         "path": "assets",
@@ -92,7 +92,7 @@
     {
         "path": "/authors/ed/index.html",
         "type": "file",
-        "md5": "32bc96dbd5711f2c9b7bbd0dc3afa506"
+        "md5": "40721db084b48ec02a9b05bdbcf321a4"
     },
     {
         "path": "authors/ed/page",
@@ -107,12 +107,22 @@
     {
         "path": "/authors/ed/page/2/index.html",
         "type": "file",
-        "md5": "fdc0028c9765a21520c5ed5e04c370a0"
+        "md5": "16d009bf310ff30260780800167cb84d"
+    },
+    {
+        "path": "authors/ed/page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/ed/page/3/index.html",
+        "type": "file",
+        "md5": "cfd8fc93e45712c07e5959e9df350b76"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "05bd0ba53dc78e616bec2f95e53775e8"
+        "md5": "075ddc57f3db6f9413a12fb61ba47a77"
     },
     {
         "path": "internal-roadmap",
@@ -122,7 +132,7 @@
     {
         "path": "/internal-roadmap/index.html",
         "type": "file",
-        "md5": "1898aafd1466e1ae2da3be135517dca3"
+        "md5": "a3198cab8d1df48127059eaeb5c9aae8"
     },
     {
         "path": "legal-cookie-policy",
@@ -132,7 +142,7 @@
     {
         "path": "/legal-cookie-policy/index.html",
         "type": "file",
-        "md5": "601569a32b4bd0b0a4050de2cfb335ac"
+        "md5": "eae80453dd0832c119f7c4b5ec331253"
     },
     {
         "path": "legal-privacy",
@@ -142,7 +152,7 @@
     {
         "path": "/legal-privacy/index.html",
         "type": "file",
-        "md5": "c2b134fc10406fef613fe891fb1b7222"
+        "md5": "6c44d58e64f3168874c5604f86bd844c"
     },
     {
         "path": "media",
@@ -167,7 +177,7 @@
     {
         "path": "/media/plugins/staticSearch/index.js",
         "type": "file",
-        "md5": "6b9cc19a5cda79499e37edeac05cb577"
+        "md5": "b15d7ca2d15f752335577615dd36237f"
     },
     {
         "path": "/media/plugins/staticSearch/static.search.min.css",
@@ -187,7 +197,7 @@
     {
         "path": "/media-14-peaks-nothing-is-impossible/index.html",
         "type": "file",
-        "md5": "a25399b32bbc8f872f4ea288665ea17f"
+        "md5": "a4c7b95f1ec31cbb10177544177ba525"
     },
     {
         "path": "media-mountain-queen-the-summits-of-lhakpa-sherpa-2023",
@@ -197,7 +207,7 @@
     {
         "path": "/media-mountain-queen-the-summits-of-lhakpa-sherpa-2023/index.html",
         "type": "file",
-        "md5": "0a003061d6e46bd1af6cff9a6b7fd83d"
+        "md5": "6016d67de2aa846738ad3802bc7a0076"
     },
     {
         "path": "media-race-to-the-summit",
@@ -207,7 +217,7 @@
     {
         "path": "/media-race-to-the-summit/index.html",
         "type": "file",
-        "md5": "47277515362b8af60822d785e62daa0a"
+        "md5": "bd188e1c88be73b48f12a16be0038201"
     },
     {
         "path": "media-race-to-the-summit-3",
@@ -217,7 +227,7 @@
     {
         "path": "/media-race-to-the-summit-3/index.html",
         "type": "file",
-        "md5": "e47dd0d47c28c672664617aa27e19269"
+        "md5": "c10e673da00d3410248dde598e4fce5e"
     },
     {
         "path": "media-the-rock-warriors-way-mental-training-for-climbers",
@@ -227,7 +237,37 @@
     {
         "path": "/media-the-rock-warriors-way-mental-training-for-climbers/index.html",
         "type": "file",
-        "md5": "16e70799e70c4280a5b9cbef48b97086"
+        "md5": "2123909ecb51c1cf85cc68814c0048ac"
+    },
+    {
+        "path": "medical-dr-med-elisabeth-rockel-orthopedic-doctor",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/medical-dr-med-elisabeth-rockel-orthopedic-doctor/index.html",
+        "type": "file",
+        "md5": "81cd026aacacb81db47956387fc0be34"
+    },
+    {
+        "path": "medical-orthopaedie-am-stiglmaierplatz",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/medical-orthopaedie-am-stiglmaierplatz/index.html",
+        "type": "file",
+        "md5": "e24bf8f5e9dd107f022b8b04222a954d"
+    },
+    {
+        "path": "medical-schoen-klinik",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/medical-schoen-klinik/index.html",
+        "type": "file",
+        "md5": "96c8c5fc536969892a1209cc3f5bcc4b"
     },
     {
         "path": "reservations-slovenia-alpine-association-hut-info",
@@ -237,7 +277,7 @@
     {
         "path": "/reservations-slovenia-alpine-association-hut-info/index.html",
         "type": "file",
-        "md5": "72361212b5902ac9669b9b52f94b0e7d"
+        "md5": "4afa4f6d3c9fd9edffeb0bd881ec4d19"
     },
     {
         "path": "robots.txt",
@@ -247,7 +287,7 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "33d5660fda4a30215c357e924f25fc41"
+        "md5": "10773d72ba9a0ce1b9692b1b5237dbbd"
     },
     {
         "path": "services-barbara-heinze-schmid-repair-service",
@@ -257,7 +297,7 @@
     {
         "path": "/services-barbara-heinze-schmid-repair-service/index.html",
         "type": "file",
-        "md5": "23e052f35762d5849d5750dc47531ed9"
+        "md5": "40fe0937b5e5ae0b590a1df7be3ff41a"
     },
     {
         "path": "services-hans-brunner-shoe-repair-shop",
@@ -267,7 +307,7 @@
     {
         "path": "/services-hans-brunner-shoe-repair-shop/index.html",
         "type": "file",
-        "md5": "195d7e253fb64a258ac74892a911108a"
+        "md5": "cf8472c464053f5dfe864a1106bbba1a"
     },
     {
         "path": "services-rupert-lanzhammer-gmbh-schuh-technik-ottobrunn",
@@ -277,7 +317,7 @@
     {
         "path": "/services-rupert-lanzhammer-gmbh-schuh-technik-ottobrunn/index.html",
         "type": "file",
-        "md5": "45b5200c7f5f8f0d66a81c7258d41d34"
+        "md5": "393c329d57cbcc147cc58844c6cb7eef"
     },
     {
         "path": "shop-globetrotter-munich",
@@ -287,7 +327,7 @@
     {
         "path": "/shop-globetrotter-munich/index.html",
         "type": "file",
-        "md5": "6e0824cf429faa1e0a592184b90acb27"
+        "md5": "1ec03746393d666680dd23e27c36fc61"
     },
     {
         "path": "shop-rumrich-stone-project",
@@ -297,7 +337,7 @@
     {
         "path": "/shop-rumrich-stone-project/index.html",
         "type": "file",
-        "md5": "297969517241bc3ba1ef263f04b9b702"
+        "md5": "233bff6d0f665671aa246c8c8447c85d"
     },
     {
         "path": "shop-sport-bittl",
@@ -307,7 +347,7 @@
     {
         "path": "/shop-sport-bittl/index.html",
         "type": "file",
-        "md5": "2ab885adf8c8796ded9687870d47028b"
+        "md5": "22f4ea23e8d1246b9bd2601fc6f7bfa8"
     },
     {
         "path": "shop-sport-schuster",
@@ -317,12 +357,12 @@
     {
         "path": "/shop-sport-schuster/index.html",
         "type": "file",
-        "md5": "ff08b2510add227ba09b2cd200745603"
+        "md5": "bbd1980241afc46840a274ce9501719a"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "a77c1113c75092778a29cc86e24b89ef"
+        "md5": "598b95e5ca83b3f96ec5b7601288a7cd"
     },
     {
         "path": "sitemap.xsl",
@@ -342,12 +382,12 @@
     {
         "path": "/tags/hack/index.html",
         "type": "file",
-        "md5": "47015bd5659fee59476b5acd78e3ec36"
+        "md5": "48adf7991613a6b7d1cb3fd81b365187"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "be669aaebbcb50450d4d1a88b0673b12"
+        "md5": "5c1aa14a335abd5536677d69422decd3"
     },
     {
         "path": "tags/media",
@@ -357,7 +397,17 @@
     {
         "path": "/tags/media/index.html",
         "type": "file",
-        "md5": "39632506d4c93cfda4c0f4af377a4f44"
+        "md5": "8797ddba950f4dfffb5f5d6512783b28"
+    },
+    {
+        "path": "tags/medical",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/medical/index.html",
+        "type": "file",
+        "md5": "65236b3165b792c22ac34e65ed642506"
     },
     {
         "path": "tags/repairs-and-services",
@@ -367,7 +417,7 @@
     {
         "path": "/tags/repairs-and-services/index.html",
         "type": "file",
-        "md5": "885c30833b35ce702a626b274a9a1bc3"
+        "md5": "e3e52564c83dee5f29fcd5a54eef471f"
     },
     {
         "path": "tags/reservations",
@@ -377,7 +427,7 @@
     {
         "path": "/tags/reservations/index.html",
         "type": "file",
-        "md5": "2c507ecf7506def0215dfdc2b280bc62"
+        "md5": "608fb94c26401fcf619e92133a797ad0"
     },
     {
         "path": "tags/shops",
@@ -387,7 +437,7 @@
     {
         "path": "/tags/shops/index.html",
         "type": "file",
-        "md5": "8f2f4c8db1bcd62bae85a1826dd2b5bc"
+        "md5": "ec70c32c331b9c3d162385bc840b3726"
     },
     {
         "path": "tags/training",
@@ -397,7 +447,7 @@
     {
         "path": "/tags/training/index.html",
         "type": "file",
-        "md5": "a906c9d65ec691bda57fbc24b01a9fae"
+        "md5": "efcec9e02e1aee3fee89b72b350e7ba7"
     },
     {
         "path": "training-mountain-rescue-association-mra-education-basecamp",
@@ -407,6 +457,6 @@
     {
         "path": "/training-mountain-rescue-association-mra-education-basecamp/index.html",
         "type": "file",
-        "md5": "494fbfa958dd14fdc1c1e30b46e6fae0"
+        "md5": "2a16bca7705323eecdb35c837d274ad1"
     }
 ]
