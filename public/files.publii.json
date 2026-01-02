@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "34d97bad6630bf16623d65cddfdea73e"
+        "md5": "d2c0476eb92b146b34795c619e38528c"
     },
     {
         "path": "assets",
@@ -92,12 +92,27 @@
     {
         "path": "/authors/ed/index.html",
         "type": "file",
-        "md5": "df1cd546063c0efee59774075279afa9"
+        "md5": "1c3fc95a61921ac2962989a89c927722"
+    },
+    {
+        "path": "authors/ed/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/ed/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/ed/page/2/index.html",
+        "type": "file",
+        "md5": "8d94635337a40817969b48f9b42556bc"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "ccc77b4137d3f6dbaa6bc43450361e45"
+        "md5": "0fb498717a0261d591d2ac0a1174bf39"
     },
     {
         "path": "internal-roadmap",
@@ -107,7 +122,7 @@
     {
         "path": "/internal-roadmap/index.html",
         "type": "file",
-        "md5": "568949ed4f856a07231656f24a5b9627"
+        "md5": "408523b64ffa4314236b1ff97aef05f5"
     },
     {
         "path": "legal-cookie-policy",
@@ -117,7 +132,7 @@
     {
         "path": "/legal-cookie-policy/index.html",
         "type": "file",
-        "md5": "990f56d212ad533227201731ea960dfc"
+        "md5": "5dd8fa21713f3b452d2ffd9f44e0fd76"
     },
     {
         "path": "legal-privacy",
@@ -127,7 +142,7 @@
     {
         "path": "/legal-privacy/index.html",
         "type": "file",
-        "md5": "4b4176ddcdba8423c2568f0781e9e571"
+        "md5": "6db9426e6655dcc37b8d59d7d6570851"
     },
     {
         "path": "media",
@@ -152,7 +167,7 @@
     {
         "path": "/media/plugins/staticSearch/index.js",
         "type": "file",
-        "md5": "88ef3b7a5017a47256ac785d80470174"
+        "md5": "db620a2768ae0a4dc5a96e83ccb4bca0"
     },
     {
         "path": "/media/plugins/staticSearch/static.search.min.css",
@@ -172,7 +187,7 @@
     {
         "path": "/media-14-peaks-nothing-is-impossible/index.html",
         "type": "file",
-        "md5": "cc1ac4743037fdb23c3e2c73bafa2c49"
+        "md5": "8928897dba532ded868dbfaae1b40f76"
     },
     {
         "path": "media-mountain-queen-the-summits-of-lhakpa-sherpa-2023",
@@ -182,7 +197,7 @@
     {
         "path": "/media-mountain-queen-the-summits-of-lhakpa-sherpa-2023/index.html",
         "type": "file",
-        "md5": "4bdced3707b54a35b1892c37226abcc5"
+        "md5": "4d48c5d8613652d46e533fdbe094a281"
     },
     {
         "path": "media-race-to-the-summit",
@@ -192,7 +207,7 @@
     {
         "path": "/media-race-to-the-summit/index.html",
         "type": "file",
-        "md5": "f9bf8de175d2bf7498bb58ae03d31991"
+        "md5": "0101dd1c9744ffcabdbd77bd8dcb00af"
     },
     {
         "path": "media-race-to-the-summit-3",
@@ -202,7 +217,7 @@
     {
         "path": "/media-race-to-the-summit-3/index.html",
         "type": "file",
-        "md5": "ce09991bedaa99e6fbbbcc1a9ac452ee"
+        "md5": "34c691833268296f0d610e4a776c4580"
     },
     {
         "path": "media-the-rock-warriors-way-mental-training-for-climbers",
@@ -212,7 +227,7 @@
     {
         "path": "/media-the-rock-warriors-way-mental-training-for-climbers/index.html",
         "type": "file",
-        "md5": "d8d1cf6c6bf9e1b251d870d68179ea5f"
+        "md5": "6eda46e58154e72711a7317c4f186eea"
     },
     {
         "path": "robots.txt",
@@ -222,12 +237,52 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "565b80ca4a398d74e5168c942bc3c196"
+        "md5": "749ef4548375361c85bf0d730713753c"
+    },
+    {
+        "path": "shop-globetrotter-munich",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/shop-globetrotter-munich/index.html",
+        "type": "file",
+        "md5": "f72687c266a8702901d311ad95358a56"
+    },
+    {
+        "path": "shop-rumrich-stone-project",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/shop-rumrich-stone-project/index.html",
+        "type": "file",
+        "md5": "e395f5e4befe133180a4a3c0f968fd37"
+    },
+    {
+        "path": "shop-sport-bittl",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/shop-sport-bittl/index.html",
+        "type": "file",
+        "md5": "b4fc002f05078b9c3c6a05538e1d7f67"
+    },
+    {
+        "path": "shop-sport-schuster",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/shop-sport-schuster/index.html",
+        "type": "file",
+        "md5": "d821fd6ddf8d8d84aeb53cba1ef5fe0f"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "bc86b347c2bd8b774631e9208fdd38a6"
+        "md5": "3baf9db86608a283d164d3bd59f1f424"
     },
     {
         "path": "sitemap.xsl",
@@ -240,9 +295,19 @@
         "md5": false
     },
     {
+        "path": "tags/hack",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/hack/index.html",
+        "type": "file",
+        "md5": "87c37450a78ff4051d8dde7084e2b0c1"
+    },
+    {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "54242e350661bf317e932305f1abbd92"
+        "md5": "52c9b330869a62e4812659465a14762b"
     },
     {
         "path": "tags/media",
@@ -252,7 +317,17 @@
     {
         "path": "/tags/media/index.html",
         "type": "file",
-        "md5": "d1bcd23ce658ac4f3449a2b02c8ebe18"
+        "md5": "ef59e153b15b7294d2c978155cdac9cd"
+    },
+    {
+        "path": "tags/shops",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/shops/index.html",
+        "type": "file",
+        "md5": "3027d4c4c839dc46b6c6989caa510ed2"
     },
     {
         "path": "tags/training",
@@ -262,7 +337,7 @@
     {
         "path": "/tags/training/index.html",
         "type": "file",
-        "md5": "c94c0e383a2fb21204a1a645c17ea72e"
+        "md5": "4c5d1c17bdea880693e689c5abdcd61c"
     },
     {
         "path": "training-mountain-rescue-association-mra-education-basecamp",
@@ -272,6 +347,6 @@
     {
         "path": "/training-mountain-rescue-association-mra-education-basecamp/index.html",
         "type": "file",
-        "md5": "39845ec5eded548595449478e819877a"
+        "md5": "05338c1483171ab9c7df77b3f9c3d6de"
     }
 ]
