@@ -91,31 +91,18 @@ export async function onRequest(context: {
   const contentType = response.headers.get('content-type');
 
   if (contentType && contentType.includes('text/html')) {
-    const { readable, writable } = new TransformStream();
-    const writer = writable.getWriter();
-    const reader = response.body?.getReader();
-
     const identityBarHtml = getIdentityBarHtml(userData.surname);
 
-    (async () => {
-      await writer.write(new TextEncoder().encode(identityBarHtml));
-      if (reader) {
-        let done = false;
-        while (!done) {
-          const result = await reader.read();
-          done = result.done;
-          if (result.value) {
-            await writer.write(result.value);
-          }
-        }
-      }
-      await writer.close();
-    })();
+    const finalResponse = new HTMLRewriter()
+      .on('body', {
+        element(el) {
+          el.prepend(identityBarHtml, { html: true });
+        },
+      })
+      .transform(response);
 
-    const finalResponse = new Response(readable, response);
     finalResponse.headers.set('x-auth-user', user.id);
     finalResponse.headers.set('x-auth-status', 'authorized');
-    finalResponse.headers.delete('content-length');
     return finalResponse;
   }
 
