@@ -573,5 +573,10 @@
         "path": "/training-mountain-rescue-association-mra-education-basecamp/index.html",
         "type": "file",
         "md5": "443983823f791f68bbe0feb704b3e8d3"
+    },
+    {
+        "path": "_redirects",
+        "type": "file",
+        "md5": "48df1dd743d6a6e213f6082832c33729"
     }
 ]
