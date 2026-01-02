@@ -3,8 +3,7 @@
     "id": "123",
     "surname": "Philogene",
     "groups": [
-      "members",
-      "group3"
+      "members"
     ],
     "active": 1
   },

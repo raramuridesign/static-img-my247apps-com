@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "15980cd39c964df66d8022dfb163274e"
+        "md5": "9901fb0178f1f1755090cdf09f8a2a7d"
     },
     {
         "path": "assets",
@@ -92,22 +92,12 @@
     {
         "path": "/authors/ed/index.html",
         "type": "file",
-        "md5": "acf95594960c7ba99969406744215484"
-    },
-    {
-        "path": "cookie-policy",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/cookie-policy/index.html",
-        "type": "file",
-        "md5": "210ee57829aff48a7fc4ab3f14014962"
+        "md5": "6324835b8a4adf7ede64dca113be0367"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "73710fec938abddb7af5117c87b093eb"
+        "md5": "2857a587a423f7c6db1f7b10b8ad8430"
     },
     {
         "path": "internal-roadmap",
@@ -117,7 +107,27 @@
     {
         "path": "/internal-roadmap/index.html",
         "type": "file",
-        "md5": "8bee154dc80f82457cc0254153854a53"
+        "md5": "a4dde832d15165a76bcb450d7825f79a"
+    },
+    {
+        "path": "legal-cookie-policy",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/legal-cookie-policy/index.html",
+        "type": "file",
+        "md5": "413a911388944417c40f9a0b950d8ee7"
+    },
+    {
+        "path": "legal-privacy",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/legal-privacy/index.html",
+        "type": "file",
+        "md5": "8d29f21bcafacf5fb72788f87a2ad4aa"
     },
     {
         "path": "media",
@@ -142,7 +152,7 @@
     {
         "path": "/media/plugins/staticSearch/index.js",
         "type": "file",
-        "md5": "57a4c6c3c6cfa9a9c965a55a856182c0"
+        "md5": "ffa6009893baa9266d6639c67ce85d04"
     },
     {
         "path": "/media/plugins/staticSearch/static.search.min.css",
@@ -155,16 +165,6 @@
         "md5": "786b5157a9c2627b6bf48c8c0d3991da"
     },
     {
-        "path": "privacy",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/privacy/index.html",
-        "type": "file",
-        "md5": "3f05b21be9f7ffd36db1b1fd7e3ad61a"
-    },
-    {
         "path": "robots.txt",
         "type": "file",
         "md5": "9152d7f1724ed8fbcd2e0c87029f193c"
@@ -172,7 +172,7 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "3d3c371dc9fc252888eb69b4c742e902"
+        "md5": "064d5e37d3859cae3904c04ca5f409c9"
     },
     {
         "path": "tags",
@@ -182,6 +182,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "6031f93d2e775d8724e260b0917aa83f"
+        "md5": "9a01dce1732ed6797eb7d02a45f632cf"
     }
 ]
