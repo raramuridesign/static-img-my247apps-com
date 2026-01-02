@@ -15,7 +15,7 @@ export function getTemplate({
     ? `Sorry ${surname}, you don't have permission to access this folder.`
     : 'Please enter your details to access this site.';
 
-  let errorMessage = 'Incorrect details, please try again.';
+  let errorMessage = 'Your details are not in our database. Please try again.';
   if (withError && surname === 'empty') errorMessage = 'Please fill in all fields.';
 
   return `
