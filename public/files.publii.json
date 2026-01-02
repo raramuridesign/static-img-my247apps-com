@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "d860ca5af3d370be1fc25a7ab52de7fd"
+        "md5": "6558b0f698cb56a0ba659c142b3177cd"
     },
     {
         "path": "assets",
@@ -92,12 +92,12 @@
     {
         "path": "/authors/ed/index.html",
         "type": "file",
-        "md5": "6ad7d1d6dc8a4530b3bb0e2040078720"
+        "md5": "f68bbfe185c686ab6dbadd53059db0aa"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "68413267b0e92c7db863b8cc46b9b7c6"
+        "md5": "a090e014521796b2172f2ff14a782375"
     },
     {
         "path": "internal-roadmap",
@@ -107,7 +107,7 @@
     {
         "path": "/internal-roadmap/index.html",
         "type": "file",
-        "md5": "a0b0f1bf3ca23e63030cc1001f7c266c"
+        "md5": "2222605b6aadd893c4ea7686f61d7f0a"
     },
     {
         "path": "legal-cookie-policy",
@@ -117,7 +117,7 @@
     {
         "path": "/legal-cookie-policy/index.html",
         "type": "file",
-        "md5": "c8a0f2df4cb1803b9a979c9ada21aa0b"
+        "md5": "fe44e888fb20f9522dec6c17b21fd628"
     },
     {
         "path": "legal-privacy",
@@ -127,7 +127,7 @@
     {
         "path": "/legal-privacy/index.html",
         "type": "file",
-        "md5": "f68484926681f61d4c222562e3b1268c"
+        "md5": "f90110ef7b6c3072ae92953b05bdb9ef"
     },
     {
         "path": "media",
@@ -172,7 +172,7 @@
     {
         "path": "/media-race-to-the-summit/index.html",
         "type": "file",
-        "md5": "14d9d08c6b28bf183a28eec1c9e31bc9"
+        "md5": "2b36405db96d473f3eefe2fd88262f97"
     },
     {
         "path": "robots.txt",
@@ -182,7 +182,7 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "1a91e81b5fb0f59030b1d03350cfac02"
+        "md5": "5e8bf1886f9a10f68035ec74ca071420"
     },
     {
         "path": "tags",
@@ -192,7 +192,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "67f1b4eb1076ccf3c87e65b80e37f48f"
+        "md5": "e3e5d1906334cefd2e20078ffebc8777"
     },
     {
         "path": "tags/media",
@@ -202,6 +202,6 @@
     {
         "path": "/tags/media/index.html",
         "type": "file",
-        "md5": "b767fda21dacef11be19f715c42bf6be"
+        "md5": "e9ed1af99a8d468dbc10451487ce790b"
     }
 ]
