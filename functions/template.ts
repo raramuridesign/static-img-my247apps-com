@@ -12,7 +12,7 @@ export function getTemplate({
   const title = isAccessDenied ? 'Access Denied' : 'Login Required - IMG Resource Database';
   const heading = isAccessDenied ? 'Access Denied' : 'IMG Login';
   const subHeading = isAccessDenied
-    ? `Sorry ${surname}, you don't have permission to access this folder.`
+    ? `Sorry ${surname}, you don't have permission to access this content.`
     : 'Please enter your details to access this site.';
 
   let errorMessage = 'Your details are not in our database. Please try again.';
@@ -27,7 +27,7 @@ export function getTemplate({
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <title>${title}</title>
       <meta name="description" content="${title}">
-      <link rel="shortcut icon" href="https://img-v2.my247apps.com/media/website/img-logo-128.png" type="image/png">
+      <link rel="shortcut icon" href="https://picocss.com/favicon.ico">
       <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
       <style>
         body > main { display: flex; flex-direction: column; justify-content: center; min-height: calc(100vh - 7rem); padding: 1rem 0; max-width: 600px;margin: 0 auto; }
@@ -48,7 +48,7 @@ export function getTemplate({
           ${withError ? `<p class="error">${errorMessage}</p>` : ''}
           
           ${isAccessDenied ? `
-            <div style="display: flex; gap: 1rem; margin-top: 2rem;">
+            <div style="display: flex; gap: 1rem; margin-top: 2rem;align-items: flex-start;">
               <button onclick="history.back()" class="secondary">Go Back</button>
               <form method="post" action="/cfp_login?logout=1" style="flex: 1;">
                 <button type="submit" class="contrast">Logout / Switch User</button>
