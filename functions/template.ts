@@ -76,7 +76,7 @@ export function getTemplate({
             <form method="post" action="/cfp_login">
               <input type="hidden" name="redirect" value="${redirectPath}" />
               <input type="text" name="surname" placeholder="Surname" aria-label="Surname" required autofocus>
-              <input type="text" name="id_number" placeholder="DAV Member Number" aria-label="DAV Member Number" required>
+              <input type="text" name="id_number" placeholder="DAV Member Number (11 Numbers)" aria-label="DAV Member Number (11 Numbers)" required>
               <button type="submit" class="contrast">Login</button>
             </form>
           `}
