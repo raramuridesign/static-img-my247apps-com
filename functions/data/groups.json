@@ -4,7 +4,9 @@
         "/tags/",
         "/media-",
         "/training-",
-        "/shop-"
+        "/shop-",
+        "/reservations-",
+        "/services-"
     ],
     "imgadmin": [
         "/internal-"
