@@ -95,7 +95,7 @@ export async function onRequest(context: {
 
     const finalResponse = new HTMLRewriter()
       .on('body', {
-        element(el) {
+        element(el: any) {
           el.prepend(identityBarHtml, { html: true });
         },
       })

@@ -91,7 +91,7 @@ export function getTemplate({
 function getIdentityBarStyles(): string {
   return `
     <style>
-      .id-bar {
+      #identity-bar {
         background: #1a1a1a;
         color: #eee;
         padding: 0.5rem 1rem;
@@ -105,12 +105,12 @@ function getIdentityBarStyles(): string {
         z-index: 1000;
         font-family: system-ui, -apple-system, sans-serif;
       }
-      .id-bar a {
+      #identity-bar a.logout-link {
         color: #ff4136;
         text-decoration: none;
         font-weight: bold;
       }
-      .id-bar strong { color: #fff; }
+      #identity-bar strong { color: #fff; }
     </style>
   `;
 }
@@ -118,11 +118,11 @@ function getIdentityBarStyles(): string {
 export function getIdentityBarHtml(surname: string): string {
   return `
     ${getIdentityBarStyles()}
-    <div class="id-bar">
+    <div class="id-bar" id="identity-bar">
       <span>Logged in as: <strong>${surname}</strong></span>
-      <form method="post" action="/cfp_login?logout=1" style="margin: 0; display: inline;">
-        <a href="#" onclick="this.closest('form').submit(); return false;">Logout</a>
-      </form>
+      <a href="/cfp_login?logout=1" 
+         onclick="const f=document.createElement('form');f.method='POST';f.action=this.href;document.body.appendChild(f);f.submit();return false;"
+         class="logout-link">Logout</a>
     </div>
   `;
 }
