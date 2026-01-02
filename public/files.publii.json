@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "fed2303cf25665c77cf606afaf4802b0"
+        "md5": "15980cd39c964df66d8022dfb163274e"
     },
     {
         "path": "assets",
@@ -92,12 +92,22 @@
     {
         "path": "/authors/ed/index.html",
         "type": "file",
-        "md5": "737e6dd75b5448d18d1f02fb72ab977b"
+        "md5": "acf95594960c7ba99969406744215484"
+    },
+    {
+        "path": "cookie-policy",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/cookie-policy/index.html",
+        "type": "file",
+        "md5": "210ee57829aff48a7fc4ab3f14014962"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "7d57cb9e3dfa3685a2277dcfb022bdb6"
+        "md5": "73710fec938abddb7af5117c87b093eb"
     },
     {
         "path": "internal-roadmap",
@@ -107,7 +117,7 @@
     {
         "path": "/internal-roadmap/index.html",
         "type": "file",
-        "md5": "455415994c1021767ecd983f988ae659"
+        "md5": "8bee154dc80f82457cc0254153854a53"
     },
     {
         "path": "media",
@@ -132,7 +142,7 @@
     {
         "path": "/media/plugins/staticSearch/index.js",
         "type": "file",
-        "md5": "4882df969f2807153a4190846c711b0b"
+        "md5": "57a4c6c3c6cfa9a9c965a55a856182c0"
     },
     {
         "path": "/media/plugins/staticSearch/static.search.min.css",
@@ -145,6 +155,16 @@
         "md5": "786b5157a9c2627b6bf48c8c0d3991da"
     },
     {
+        "path": "privacy",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/privacy/index.html",
+        "type": "file",
+        "md5": "3f05b21be9f7ffd36db1b1fd7e3ad61a"
+    },
+    {
         "path": "robots.txt",
         "type": "file",
         "md5": "9152d7f1724ed8fbcd2e0c87029f193c"
@@ -152,7 +172,7 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "85e0a8551cc58f0b92dc3bd8c412220c"
+        "md5": "3d3c371dc9fc252888eb69b4c742e902"
     },
     {
         "path": "tags",
@@ -162,6 +182,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "e17b65eed9e836b221a72188809e58dc"
+        "md5": "6031f93d2e775d8724e260b0917aa83f"
     }
 ]
