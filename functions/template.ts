@@ -58,7 +58,7 @@ export function getTemplate({
             <form method="post" action="/cfp_login">
               <input type="hidden" name="redirect" value="${redirectPath}" />
               <input type="text" name="surname" placeholder="Surname" aria-label="Surname" required autofocus>
-              <input type="text" name="id_number" placeholder="DAV Member Number (11 Numbers)" aria-label="DAV Member Number (11 Numbers)" required>
+              <input type="text" name="id_number" placeholder="DAV Member Number (11 Numbers)" aria-label="DAV Member Number (11 Numbers)" minlength="11" maxlength="11" pattern="[0-9]{11}" inputmode="numeric" oninput="this.value = this.value.replace(/[^0-9]/g, '');" required>
               <button type="submit" class="contrast">Login</button>
             </form>
           `}
