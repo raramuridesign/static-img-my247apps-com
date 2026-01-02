@@ -10,7 +10,7 @@ export function getTemplate({
   surname?: string;
 }): string {
   const title = isAccessDenied ? 'Access Denied' : 'Login Required';
-  const heading = isAccessDenied ? 'Access Denied' : 'IMG Member Login';
+  const heading = isAccessDenied ? 'Access Denied' : 'IMG Login';
   const subHeading = isAccessDenied
     ? `Sorry ${surname}, you don't have permission to access this folder.`
     : 'Please enter your details to access this site.';
