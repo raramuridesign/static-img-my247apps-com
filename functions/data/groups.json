@@ -1,7 +1,9 @@
 {
     "members": [
-        "/legal-",
         "/tags/",
+        "/media/",
+        "/assets/",
+        "/legal-",
         "/media-",
         "/training-",
         "/shop-",
