@@ -395,11 +395,6 @@
         "md5": "d34a10184cc705d52f4fbc126d06f9ea"
     },
     {
-        "path": "search.html",
-        "type": "file",
-        "md5": "69badd60966c3666e9dd4df2505a02b0"
-    },
-    {
         "path": "services-barbara-heinze-schmid-repair-service",
         "type": "directory",
         "md5": false
